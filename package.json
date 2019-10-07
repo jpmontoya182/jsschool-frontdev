@@ -1,0 +1,8 @@
+{
+  "name": "jsschool-frontdev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jpmontoya182/jsschool-frontdev.git",
+  "author": "<jpmontoya182@gmail.com>",
+  "license": "MIT"
+}
